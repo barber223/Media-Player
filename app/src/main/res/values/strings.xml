@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BarberEric_CE02</string>
+    <string name="content_discription" />
+    <string name="startingSeekPosition">0:00</string>
+    <string name="total_time_temp">3:00</string>
+    <string name="looping_track_string">Looping Track</string>
+    <string name="shuffle_play_string">Shuffle Play</string>
+</resources>
